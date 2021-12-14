@@ -1,0 +1,75 @@
+*{
+    padding: 10px;
+    margin:10px;
+    box-sizing: border-box;
+    background-color: rgb(51, 50, 50);
+    
+}
+
+header{
+    text-align: center;
+    color: powderblue;
+    font-size: xx-large;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+p{
+    font-size: large;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{color: rgb(221, 134, 4);
+    text-align:justify;
+    font-size: xx-large;
+    text-shadow: turquoise;
+}
+h2{
+    color: orangered;
+     font-size: xx-large;
+}
+label{
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.watsapp{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+.facebook{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+.ig{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+.twitter{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+
+footer{
+    text-align: center;
+     font-size: medium;
+     color: powderblue;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    }
+    .logos{
+        text-align: center;
+    }
+    
+
+    
